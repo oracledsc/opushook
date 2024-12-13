@@ -164,7 +164,7 @@ static const opus_int32 fec_thresholds[] = {
         20000, 1000, /* SWB */
         22000, 1000, /* FB */
 };
-
+ezrgzergzerg
 int opus_encoder_get_size(int channels)
 {
     int silkEncSizeBytes, celtEncSizeBytes;
